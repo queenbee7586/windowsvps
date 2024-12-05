@@ -1,0 +1,3 @@
+name: CI on: [push] jobs: build: runs-on: windows-latest
+
+Read more here: https://locall.host/how-to-create-free-windows-10-rdp-vps-with-github/
